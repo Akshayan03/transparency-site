@@ -1,0 +1,1 @@
+import{C as e,T as t}from"./disclose-version-CXa6TWkD.js";import"./index-C2IB-Iba.js";var n=t(`<div class="wrap page-head"><p class="eyebrow">404</p> <h1>That page doesn’t exist.</h1> <p class="lede">The link may be old or mistyped.</p> <a class="btn primary" href="#/">Go to search</a></div>`);function r(t){var r=n();e(t,r)}export{r as default};
