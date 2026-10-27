@@ -1,0 +1,15 @@
+{
+  "name": "Transparency",
+  "short_name": "Transparency",
+  "description": "The 3 best options for anything — lowest price, best value, best overall — with a source for every price.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f3eb",
+  "theme_color": "#0d604f",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
