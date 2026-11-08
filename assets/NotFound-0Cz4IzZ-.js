@@ -1,0 +1,1 @@
+import{E as e,w as t}from"./disclose-version-CDW1-rQo.js";import"./index-Dc1drBjr.js";var n=e(`<div class="wrap page-head"><p class="eyebrow">404</p> <h1>That page doesn’t exist.</h1> <p class="lede">The link may be old or mistyped.</p> <a class="btn primary" href="#/">Go to search</a></div>`);function r(e){var r=n();t(e,r)}export{r as default};
